@@ -1,2 +1,6 @@
-blib
+blib/
+inc/
 pm_to_blib
+Makefile
+MYMETA*
+META*
